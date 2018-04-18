@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:TestXamarin"
              x:Class="TestXamarin.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms - UWP with NuGet!" 
+	<Label Text="Welcome to Xamarin.Forms - Android without NuGet!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
