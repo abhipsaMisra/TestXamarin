@@ -1,0 +1,2 @@
+Microsoft.Data.OData.resources, Version=5.8.1.0, Culture=de, PublicKeyToken=31bf3856ad364e35
+  Microsoft.Data.OData.de.resources

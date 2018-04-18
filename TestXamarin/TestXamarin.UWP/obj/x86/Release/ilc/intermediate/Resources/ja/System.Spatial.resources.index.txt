@@ -1,0 +1,2 @@
+System.Spatial.resources, Version=5.8.1.0, Culture=ja, PublicKeyToken=31bf3856ad364e35
+  System.Spatial.ja.resources

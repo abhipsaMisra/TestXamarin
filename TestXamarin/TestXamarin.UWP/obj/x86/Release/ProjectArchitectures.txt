@@ -1,0 +1,1 @@
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\TestXamarin.UWP.csproj;x86

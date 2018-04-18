@@ -1,0 +1,12 @@
+/ref:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\abmisr\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Private\\"
+/ref:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\abmisr\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\csc"
+/out:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\intermediate\TestXamarin.UWP.Sg"
+"@C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\obj\x86\Release\ilc\intermediate\TestXamarin.UWP.Sg\ComputedSerializationInput.txt"

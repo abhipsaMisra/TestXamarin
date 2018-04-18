@@ -1,0 +1,3 @@
+TestXamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  TestXamarin.App.xaml
+  TestXamarin.MainPage.xaml

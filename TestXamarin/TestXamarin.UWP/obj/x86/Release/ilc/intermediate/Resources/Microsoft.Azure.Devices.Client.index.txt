@@ -1,0 +1,4 @@
+Microsoft.Azure.Devices.Client, Version=1.7.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Microsoft.Azure.Devices.Client.Common.Api.ApiResources.resources
+  Microsoft.Azure.Devices.Client.Common.Resources.resources
+  Microsoft.Azure.Devices.Client.TransientFaultHandling.Properties.TransientFaultHandlingResources.resources

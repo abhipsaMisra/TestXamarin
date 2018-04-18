@@ -1,0 +1,2 @@
+Microsoft.Data.Edm.resources, Version=5.8.1.0, Culture=zh-Hans, PublicKeyToken=31bf3856ad364e35
+  Microsoft.Data.Edm.zh-Hans.resources
