@@ -1,0 +1,10 @@
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\bin\Release\netstandard2.0\TestXamarin.deps.json
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\bin\Release\netstandard2.0\TestXamarin.dll
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\bin\Release\netstandard2.0\TestXamarin.pdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.csproj.CoreCompileInputs.cache
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.App.xaml.g.cs
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.MainPage.xaml.g.cs
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.AssemblyInfoInputs.cache
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.AssemblyInfo.cs
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.dll
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.pdb
