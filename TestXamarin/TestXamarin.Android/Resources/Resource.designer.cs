@@ -26,6 +26,7 @@ namespace TestXamarin.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Microsoft.Azure.Amqp.Resource.String.ApplicationName = global::TestXamarin.Droid.Resource.String.ApplicationName;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::TestXamarin.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -3624,6 +3625,9 @@ namespace TestXamarin.Droid
 		
 		public partial class String
 		{
+			
+			// aapt resource value: 0x7f09003e
+			public const int ApplicationName = 2131296318;
 			
 			// aapt resource value: 0x7f090015
 			public const int abc_action_bar_home_description = 2131296277;

@@ -8,3 +8,4 @@ C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.AssemblyInfo.cs
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.pdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\obj\Release\netstandard2.0\TestXamarin.csprojResolveAssemblyReference.cache

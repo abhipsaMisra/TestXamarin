@@ -81,10 +81,16 @@ C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\andr
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\System.ServiceModel.Internals.pdb
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\System.Xml.pdb
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\TestXamarin.pdb
-C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\bin\Release\TestXamarin.Android.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\bin\Release\Microsoft.CSharp.pdb
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\linksrc\Microsoft.CSharp.pdb
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\bin\Release\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\linksrc\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\Microsoft.CSharp.pdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\System.Numerics.pdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\System.Web.Services.pdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\android\assets\System.Xml.Linq.pdb
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\bin\Release\TestXamarin.Android.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\linksrc\TestXamarin.Android.dll.mdb
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Release\linksrc\Microsoft.WindowsAzure.Storage.dll.mdb
