@@ -7,8 +7,6 @@ C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\androi
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\mscorlib.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Core.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.dll
-C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.IO.Compression.dll
-C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Xml.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Xml.Linq.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\TestXamarin.dll
@@ -37,8 +35,10 @@ C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\androi
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Transactions.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\Mono.Data.Tds.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\Mono.Security.dll
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.IO.Compression.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\android\assets\System.Web.Services.dll

@@ -1764,6 +1764,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
@@ -3881,6 +3882,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
@@ -6041,6 +6043,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
@@ -8158,6 +8161,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
@@ -10318,6 +10322,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
@@ -12435,6 +12440,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
@@ -14595,6 +14601,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Microsoft.Azure.Devices.Client": "1.7.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "compile": {
