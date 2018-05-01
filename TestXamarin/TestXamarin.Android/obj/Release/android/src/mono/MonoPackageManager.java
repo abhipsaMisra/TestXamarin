@@ -107,24 +107,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "TestXamarin.Android.dll" comes first in this list. */
 		"TestXamarin.Android.dll",
-		"DotNetty.Buffers.dll",
-		"DotNetty.Codecs.dll",
-		"DotNetty.Codecs.Mqtt.dll",
-		"DotNetty.Common.dll",
-		"DotNetty.Handlers.dll",
-		"DotNetty.Transport.dll",
 		"FormsViewGroup.dll",
 		"Microsoft.Azure.Amqp.dll",
-		"Microsoft.Azure.Devices.Client.dll",
-		"Microsoft.Azure.Devices.Shared.dll",
-		"Microsoft.Data.Edm.dll",
-		"Microsoft.Data.OData.dll",
-		"Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-		"Microsoft.Extensions.Logging.Abstractions.dll",
-		"Microsoft.Extensions.Logging.dll",
-		"Microsoft.WindowsAzure.Storage.dll",
-		"Newtonsoft.Json.dll",
-		"System.Spatial.dll",
 		"TestXamarin.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
@@ -146,8 +130,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"System.Runtime.CompilerServices.Unsafe.dll",
-		"System.Configuration.ConfigurationManager.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
