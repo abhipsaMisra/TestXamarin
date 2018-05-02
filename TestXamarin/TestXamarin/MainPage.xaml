@@ -4,8 +4,15 @@
              xmlns:local="clr-namespace:TestXamarin"
              x:Class="TestXamarin.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms - Android with NuGet!" 
+    <StackLayout>
+        <Label Text="Welcome to Xamarin.Forms - Common UI code!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
+        <Entry x:Name="deviceID" Text="Device ID placeholder" />
+        <Button x:Name="sendMessage" Text="Send Message"  />
+        <Button x:Name="receiveMessage" Text="Receive Message" IsEnabled="false" />
+
+    </StackLayout>
+
 
 </ContentPage>
