@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-05-02T01:25:15.412</Modified>
+      <Modified>2018-05-02T02:05:22.611</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\bin\x86\Debug\TestXamarin.UWP.exe">
       <PackagePath>entrypoint\TestXamarin.UWP.exe</PackagePath>
-      <Modified>2018-05-02T01:25:13.959</Modified>
+      <Modified>2018-05-02T02:05:21.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmisr\.nuget\packages\dotnetty.buffers\0.4.7\lib\netstandard1.3\DotNetty.Buffers.dll">
       <PackagePath>DotNetty.Buffers.dll</PackagePath>
@@ -901,7 +901,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin\bin\Debug\netstandard2.0\TestXamarin.dll">
       <PackagePath>TestXamarin.dll</PackagePath>
-      <Modified>2018-05-02T01:25:09.522</Modified>
+      <Modified>2018-05-02T02:05:16.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -1072,11 +1072,11 @@
     <AppxPackagedFile Include="C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-05-02T01:25:14.931</Modified>
+      <Modified>2018-05-02T02:05:22.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyData\Workspace\TestXamarin\TestXamarin\TestXamarin.UWP\bin\x86\Debug\Core\TestXamarin.UWP.exe">
       <PackagePath>TestXamarin.UWP.exe</PackagePath>
-      <Modified>2018-05-02T01:25:15.404</Modified>
+      <Modified>2018-05-02T02:05:22.604</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -9,8 +9,8 @@
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
         <Entry x:Name="deviceID" Text="Device ID placeholder" />
-        <Button x:Name="sendMessage" Text="Send Message"  />
-        <Button x:Name="receiveMessage" Text="Receive Message" IsEnabled="false" />
+        <Button x:Name="sendEventButton" Text="Send Event" Clicked="SendEvent" />
+        <Button x:Name="receiveCommandsButton" Text="Receive Commands" IsEnabled="false" Clicked="ReceiveCommands"/>
 
     </StackLayout>
 
